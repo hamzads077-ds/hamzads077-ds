@@ -2,21 +2,28 @@
 
 <h3 align="center">Statistical Data Science Student | Aspiring Data Scientist</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 ---
 
 ## 🚀 About Me
 
-I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
-
-I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics**. I enjoy solving real-world problems through programming and continuously improving my technical skills by building practical projects.
-
-* 🎓 Statistical Data Science Student
-* 🐍 Learning Python & Database Management (SQL)
-* 📊 Interested in Data Analytics, Machine Learning & AI
-* 🚀 Building projects and improving every day
-* ⚡ Goal: Become a Data Scientist
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      I'm an undergraduate student pursuing a <b>Bachelor's in Statistical Data Science</b> at the <b>International Islamic University Islamabad</b>.<br/><br/>
+      I'm passionate about <b>Data Science, Artificial Intelligence, and Data Analytics</b>. I enjoy solving real-world problems through programming and continuously improving my technical skills by building practical projects.<br/><br/>
+      <ul>
+        <li>🎓 Statistical Data Science Student</li>
+        <li>🐍 Learning Python & Database Management (SQL)</li>
+        <li>📊 Interested in Data Analytics, Machine Learning & AI</li>
+        <li>🚀 Building projects and improving every day</li>
+        <li>⚡ Goal: Become a Data Scientist</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img alt="Coding GIF" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,7 +53,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzads077-ds&theme=github-dark&hide_border=true" />
+  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg?user=hamzads077-ds" alt="Snake Animation" />
 </p>
 
 ---
