@@ -53,7 +53,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg?user=hamzads077-ds" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
