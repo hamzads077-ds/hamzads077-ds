@@ -67,3 +67,9 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 # 💡 Quote
 
 > *"Data is the new oil, but like oil, it's useless unless it's refined. Keep learning, keep refining!"* 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzads077-ds&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
