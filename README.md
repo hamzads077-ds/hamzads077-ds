@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/qasimawan-1/qasimawan-1/main/assets/coding.gif">
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/u3p8NP2222J3E1T4vB/giphy.gif">
 
 I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
 
@@ -44,7 +44,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake.svg?user=hamzads077-ds&theme=dark" alt="Hamza's Snake Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzads077-ds&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
