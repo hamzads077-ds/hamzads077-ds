@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1a3BqOGVwbzh5eThidTZ0Ym95bndrMWJyeGdzZnprZ3lhOW10NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif">
+<img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/qasimawan-1/qasimawan-1/main/assets/coding.gif">
 
 I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
 
@@ -44,18 +44,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzads077-ds&theme=react-dark&hide_border=true" alt="Hamza's Contribution Graph" />
-</p>
-
----
-
-## 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzads077-ds&show_icons=true&theme=radical&hide_border=true" alt="Hamza's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzads077-ds&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake.svg?user=hamzads077-ds&theme=dark" alt="Hamza's Snake Contribution Graph" />
 </p>
 
 ---
