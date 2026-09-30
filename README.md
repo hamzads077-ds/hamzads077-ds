@@ -58,7 +58,7 @@
 
 ---
 
-# 🛠️ Areas of Interest
+# 🎯 Areas of Interest
 
 * 🎓 Statistical Data Science
 * 🤖 Artificial Intelligence
