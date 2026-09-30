@@ -71,6 +71,5 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamzads077-ds&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hamzads077-ds&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
-
