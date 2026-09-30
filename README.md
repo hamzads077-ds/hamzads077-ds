@@ -46,7 +46,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=hamzads077-ds&theme=github-compact" alt="Hamza's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzads077-ds&theme=github-dark&hide_border=true" />
 </p>
 
 ---
