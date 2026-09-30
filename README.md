@@ -2,11 +2,11 @@
 
 <h3 align="center">Statistical Data Science Student | Aspiring Data Scientist</h3>
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ---
 
 ## 🚀 About Me
-
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/u3p8NP2222J3E1T4vB/giphy.gif">
 
 I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
 
@@ -20,21 +20,23 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzads077)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.ds.077@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Environments
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -44,12 +46,12 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzads077-ds&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://raw.githubusercontent.com/qasimawan-1/qasimawan-1/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## ⚙️ Areas of Interest
+# 🛠️ Areas of Interest
 
 * 🎓 Statistical Data Science
 * 🤖 Artificial Intelligence
@@ -59,5 +61,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 * 🌐 Open Source
 
 ---
+
+# 💡 Quote
 
 > *"Data is the new oil, but like oil, it's useless unless it's refined. Keep learning, keep refining!"* 🚀
