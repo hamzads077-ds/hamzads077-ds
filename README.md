@@ -2,28 +2,23 @@
 
 <h3 align="center">Statistical Data Science Student | Aspiring Data Scientist</h3>
 
+<p align="center">
+  <img alt="Coding GIF" width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      I'm an undergraduate student pursuing a <b>Bachelor's in Statistical Data Science</b> at the <b>International Islamic University Islamabad</b>.<br/><br/>
-      I'm passionate about <b>Data Science, Artificial Intelligence, and Data Analytics</b>. I enjoy solving real-world problems through programming and continuously improving my technical skills by building practical projects.<br/><br/>
-      <ul>
-        <li>🎓 Statistical Data Science Student</li>
-        <li>🐍 Learning Python & Database Management (SQL)</li>
-        <li>📊 Interested in Data Analytics, Machine Learning & AI</li>
-        <li>🚀 Building projects and improving every day</li>
-        <li>⚡ Goal: Become a Data Scientist</li>
-      </ul>
-    </td>
-    <td align="center" valign="middle" width="40%">
-      <img alt="Coding GIF" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-    </td>
-  </tr>
-</table>
+I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
+
+I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics**. I enjoy solving real-world problems through programming and continuously improving my technical skills by building practical projects.
+
+* 🎓 Statistical Data Science Student
+* 🐍 Learning Python & Database Management (SQL)
+* 📊 Interested in Data Analytics, Machine Learning & AI
+* 🚀 Building projects and improving every day
+* ⚡ Goal: Become a Data Scientist
 
 ---
 
@@ -58,7 +53,7 @@
 
 ---
 
-# 🎯 Areas of Interest
+# 🛠️ Areas of Interest
 
 * 🎓 Statistical Data Science
 * 🤖 Artificial Intelligence
