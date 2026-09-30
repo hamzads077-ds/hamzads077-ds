@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Hamza Shah</h1>
 
-<!--
-**hamzads077-ds/hamzads077-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Statistical Data Science Student | Aspiring Data Scientist & AI Engineer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif">
+
+I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
+
+I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics**. I enjoy solving real-world problems through programming and continuously improving my technical skills by building practical projects.
+
+* 🎓 Statistical Data Science Student
+* 🐍 Learning Python & Database Management (SQL)
+* 📊 Interested in Data Analytics, Machine Learning & AI
+* 🚀 Building projects and improving every day
+* ⚡ Goal: Become a Data Scientist & AI Engineer
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzads077)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.ds.077@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### Tools & Environments
+[![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzads077&show_icons=true&theme=radical&hide_border=true" alt="Hamza's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzads077&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## ⚙️ Areas of Interest
+
+* 🎓 Statistical Data Science
+* 🤖 Artificial Intelligence
+* 📊 Data Analytics
+* 🧠 Machine Learning
+* 💡 Problem Solving
+* 🌐 Open Source
+
+---
+
+> *"Data is the new oil, but like oil, it's useless unless it's refined. Keep learning, keep refining!"* 🚀
