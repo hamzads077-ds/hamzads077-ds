@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Shah</h1>
 
-<h3 align="center">Statistical Data Science Student | Aspiring Data Scientist & AI Engineer</h3>
+<h3 align="center">Statistical Data Science Student | Aspiring Data Scientist</h3>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/everetttitanium/everetttitanium/main/assets/coding.gif">
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif">
 
 I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
 
@@ -16,7 +16,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 * 🐍 Learning Python & Database Management (SQL)
 * 📊 Interested in Data Analytics, Machine Learning & AI
 * 🚀 Building projects and improving every day
-* ⚡ Goal: Become a Data Scientist & AI Engineer
+* ⚡ Goal: Become a Data Scientist
 
 ---
 
@@ -41,7 +41,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 📊 Contribution Stats & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzads077-ds&show_icons=true&theme=radical&hide_border=true" alt="Hamza's GitHub Stats" />
@@ -52,7 +52,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 
 ---
 
-## ⚙️️ Areas of Interest
+## ⚙️ Areas of Interest
 
 * 🎓 Statistical Data Science
 * 🤖 Artificial Intelligence
