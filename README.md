@@ -64,6 +64,15 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 
 ---
 
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzads077-ds&theme=gotham)](https://github.com/hamzads077-ds/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzads077-ds&&theme=gotham)](https://git.io/streak-stats)
+
+---
+
 # 💡 Quote
 
 > *"Data is the new oil, but like oil, it's useless unless it's refined. Keep learning, keep refining!"* 🚀
