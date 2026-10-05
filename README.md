@@ -16,7 +16,7 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 
 * 🎓 Statistical Data Science Student
 * 🐍 Learning Python & Database Management (SQL)
-* 📊 Interested in Data Analytics, Machine Learning & AI
+* 📊 Interested in Data Analytics, Machine Learning & AI 
 * 🚀 Building projects and improving every day
 * ⚡ Goal: Become a Data Scientist
 
