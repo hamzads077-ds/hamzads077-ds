@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamza Shah</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hamza Shah</h1> 
 
 <h3 align="center">Statistical Data Science Student | Aspiring Data Scientist.</h3>
 
