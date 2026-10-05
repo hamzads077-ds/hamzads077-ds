@@ -64,7 +64,7 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 
 ---
 
-<summary>📝 My GitHub Stats</summary>
+<summary>📝 *My GitHub Stats*</summary>
 <br>
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzads077-ds&theme=gotham&cache_seconds=1800)](https://github.com/hamzads077-ds)
