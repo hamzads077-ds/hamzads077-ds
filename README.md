@@ -64,18 +64,17 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 
 ---
 
-<summary>📝 My GitHub Stats</summary>
-<br>
+## 📝 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/hamzads077-ds">
-    <img width="495" src="https://github-readme-stats.vercel.app/api?username=hamzads077-ds&theme=gotham&show_icons=true&cache_seconds=1800" alt="Hamza's github stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/hamzads077-ds">
-    <img width="495" src="https://streak-stats.demolab.com/?user=hamzads077-ds&theme=gotham&cache_seconds=1800" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://github.com/hamzads077-ds">
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=hamzads077-ds&theme=gotham&show_icons=true&include_all_commits=true&cache_seconds=1800" alt="Hamza's github stats" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/hamzads077-ds">
+  <img width="495" src="https://streak-stats.demolab.com/?user=hamzads077-ds&theme=gotham&cache_seconds=1800" alt="GitHub Streak" />
+</a>
 
 ---
 
