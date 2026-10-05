@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Shah</h1>  
 
-<h3 align="center">Statistical Data Science Student | Aspiring Data Scientist.</h3>   
+<h3 align="center">Statistical Data Science Student | Aspiring Data Scientist.</h3>  
 
 <p align="center"> 
   <img alt="Coding GIF" style="max-width: 100%; width: 400px;" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>  
