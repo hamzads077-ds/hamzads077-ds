@@ -10,7 +10,7 @@
  
 ## 🚀 About Me
 
-I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the ```**International Islamic University Islamabad**```.
+I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **```International Islamic University Islamabad```**.
 
 I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data Analytics**. I enjoy solving real-world problems through programming and continuously improving my technical skills by building practical projects.
 
