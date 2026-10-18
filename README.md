@@ -88,6 +88,8 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hamzads077-ds.hamzads077-ds" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=hamzads077-ds&style=for-the-badge&color=blue&v=1" alt="Profile Views" />
+
 </p>
 
