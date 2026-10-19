@@ -76,7 +76,7 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 <br><br>
 
 <a href="https://github.com/hamzads077-ds">
-  <img width="495" src="https://streak-stats.demolab.com/?user=hamzads077-ds&theme=gotham" alt="GitHub Streak" />
+  <img width="495" src="https://streak-stats.demolab.com/?user=hamzads077-ds&theme=gotham&user_timezone=Asia/Karachi" alt="GitHub Streak" />
 </a>
 
 ---
