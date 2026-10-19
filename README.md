@@ -58,7 +58,7 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 
 # 🎯 Areas of Interest
 
-* 🎓 Statistical Data Science
+* 🎓 Data Science
 * 🤖 Artificial Intelligence
 * 📊 Data Analytics
 * 🧠 Machine Learning
