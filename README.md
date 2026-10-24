@@ -86,6 +86,14 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 > *"Data is the new oil, but like oil, it's useless unless it's refined. Keep learning, keep refining!"* 🚀
 
 ---
+![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzads077-ds&show_icons=true&theme=radial" alt="GitHub Stats" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzads077-ds&style=for-the-badge&color=blue" alt="Profile Views" />
