@@ -72,9 +72,7 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 <a href="https://github.com/hamzads077-ds">
   <img width="495" src="https://github-readme-stats.vercel.app/api?username=hamzads077-ds&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&user_timezone=Asia/Karachi" alt="Hamza's github stats" />
 </a>
-
 <br><br>
-
 <a href="https://github.com/hamzads077-ds">
   <img width="495" src="https://streak-stats.demolab.com/?user=hamzads077-ds&theme=gotham&user_timezone=Asia/Karachi" alt="GitHub Streak" />
 </a>
