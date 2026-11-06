@@ -71,7 +71,7 @@ I'm passionate about **Data Science, _```Artificial Intelligence```_, and Data A
 
 <p align="left">
   <a href="https://github.com/hamzads077-ds">
-    <img width="495" src="https://github-readme-stats-extended.vercel.app/api?username=hamzads077-ds&theme=gotham&show_icons=true&count_private=true" alt="Hamza's GitHub Stats" />
+    <img width="495" src="https://github-readme-stats-extended.vercel.app/api?username=hamzads077-ds&theme=gotham&show_icons=true&count_private=true&cache_seconds=1800" alt="Hamza's GitHub Stats" />
   </a>
 </p>
 <p align="left">
